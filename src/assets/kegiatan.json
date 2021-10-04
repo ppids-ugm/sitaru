@@ -1,0 +1,1171 @@
+{
+ "Ruang Terbuka Hijau": [
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Taman Lingkungan",
+  "keterangan": "Fasilitas taman yang berada di lingkungan perumahan permukiman, bisa berwujud taman RT, taman RW, taman kelurahan, taman kecamatan."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Taman Kota",
+  "keterangan": "Lahan terbuka yang berfungsi sosial dan estetik sebagai sarana kegiatan rekreatif, edukasi atau kegiatan lain pada tingkat kota."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Taman Makam Pahlawan",
+  "keterangan": "Lahan untuk memakamkan jenazah yang ditetapkan sebagai pahlawan bangsa yang dilengkapi dengan sarana dan prasarana."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Tempat Pemakaman Umum",
+  "keterangan": "Lahan untuk memakamkan jenazah secara umum yang dilengkapi dengan sarana dan prasarana."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Tempat Pemakaman Khusus",
+  "keterangan": "Lahan untuk memakamkan jenazah secara khusus karena faktor tertentu seperti faktor sejarah, kebudayaan, kesehatan atau lainnya yang dilengkapi dengan sarana dan prasarana."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Hutan Kota",
+  "keterangan": "Hamparan lahan yang bertumbuhan pohon-pohon yang kompak dan rapat di dalam wilayah perkotaan baik pada tanah negara maupun tanah hak, yang ditetapkan sebagai hutan kota oleh pejabat yang berwenang."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Alun-Alun",
+  "keterangan": "Tempat atau tanah yang luas biasanya digunakan untuk untuk olahraga dan tempat berkumpul (public space)."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Lapangan Olahraga (resapan)",
+  "keterangan": "Daerah tempat dimainkannya olahraga atau aktifitas lainnya, termasuk di dalamnya adalah lapangan sepak bola, kasti, voli, dan lain-lain resapan."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Pertanian Perkotaan",
+  "keterangan": "Aktivitas budidaya, pengolahan, pemasaran, dan/atau pendistribusian bahan pangan, produk kehutanan, dan/atau hortikultura yang dilakukan di wilayah perkotaan."
+ }
+ ],
+ "Perumahan": [
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Sangat Kecil",
+  "keterangan": "Hunian dengan luas persil lebih kecil atau sama dengan 60 m2 (enam puluh meter persegi) dengan tipe bangunan deret."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Kecil",
+  "keterangan": "Hunian dengan luas persil lebih besar dari 60 m2 (enam puluh meter persegi) sampai dengan 100 m2 (serratus meter persegi) dengan tipe bangunan deret."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Sedang",
+  "keterangan": "Hunian dengan luas persil lebih besar 100 m2 (seratus meter persegi) sampai dengan 400 m2 (empat ratus meter persegi) dengan tipe bangunan deret."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Besar",
+  "keterangan": "Hunian dengan luas persil lebih besar dari 400 m2 (empat ratus lima meter persegi) dengan tipe bangunan kopel."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Susun",
+  "keterangan": "Hunian bertingkat yang dibangun dalam satu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal untuk tempat hunian, yang dilengkapi dengan bagian bersama, benda bersama dan tanah bersama.dan merupakan satuan-satuan yang masing- masing dapat dimiliki dan digunakan secara terpisah, yang berfungsi"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Mess Karyawan",
+  "keterangan": "Akomodasi yang dibangun dan disediakan sebagai tempat tinggal bagi karyawan, pegawai, atau anggota suatu instansi dalam suatu kelompok tertentu (bujangan, perwira, trainee)"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Asrama Mahasiswa / Pelajar",
+  "keterangan": "Hunian dengan kamar–kamar yang dapat ditempati oleh beberapa penghuni di setiap kamarnya. Para penghuni menginap di asrama untuk jangka waktu yang lebih lama daripada di hotel atau losmen."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Kos",
+  "keterangan": "Hunian yang penggunaannya sebagian atau seluruhnya dijadikan sumber pendapatan oleh pemiliknya dengan jalan menerima penghuni tempat kos minimal satu bulan dengan memungut uang pemondokan."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Sewa",
+  "keterangan": "Hunian yang penggunaannya sebagian atau seluruhnya dijadikan sumber pendapatan oleh pemiliknya dengan jalan menerima penghuni pada rumah yang disewakan selama minimal satu bulan dengan memungut uang sewa"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Dinas Swasta",
+  "keterangan": "Hunian yang berfungsi sebagai tempat tinggal untuk menunjang pelaksanaan tugas pejabat dan/atau pegawai swasta."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Dinas Negeri",
+  "keterangan": "Hunian yang berfungsi sebagai tempat tinggal untuk menunjang pelaksanaan tugas pejabat dan/atau pegawai negeri."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Jabatan",
+  "keterangan": "Hunian yang berfungsi sebagai tempat tinggal yang disediakan oleh instansi karena jabatannya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Mewah",
+  "keterangan": "Hunian dengan luas persil lebih dari 400 m2 (empat ratus meter persegi) yang dibangun dengan tipe bangunan tunggal."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Menengah",
+  "keterangan": "Hunian dengan luas persil kurang dari 100 m2 (seratus meter persegi) sampai dengan 400 m2 (empat ratus meter persegi) yang dibangun dengan tipe bangunan tunggal."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Sederhana",
+  "keterangan": "Hunian dengan luas persil kurang dari 100 m2 (seratus meter persegi) yang dibangun dengan tipe bangunan tunggal."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Panti Jompo",
+  "keterangan": "Hunian untuk menampung dan merawat orang-orang yang lanjut usia atau jompo."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Pusat Rehabilitasi",
+  "keterangan": "Hunian yang berfungsi proses refungsionalisasi dan pengembangan untuk memungkinkan penyandang cacat mampu melaksanakan fungsi sosialnya secara wajar dalam kehidupan masyarakat."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Panti Asuhan",
+  "keterangan": "Hunian yang menampung anak-anak yatim piatu. Di dalam panti asuhan, anak-anak yatim piatu (ataupun anak yang dititipkan orang tuanya karena tidak mampu) biasanya tinggal, mendapatkan pendidikan, dan juga dibekali berbagai keterampilan agar dapat berguna di kehidupannya nanti."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Tunggal",
+  "keterangan": "Hunian yang terletak pada suatu tempat dan hanya bediri sendiri."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Kopel",
+  "keterangan": "Hunian yang terletak pada suatu tempat dengan terdiri dari dua rumah tunggal yang bentuknya hampir sama dan terletak bersebelahan kanan kiri."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Deret",
+  "keterangan": "Hunian yang terletak pada suatu tempat dengan jumlah yang bervariasi dan terletak berderetan antara satu dengan yang lainnya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Townhouse",
+  "keterangan": "Hunian berupa rumah gandeng dengan penambahan tempat parkir di dalam bangunannya"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Paviliun",
+  "keterangan": "Hunian berupa rumah kecil yang letaknya berdekatan dan masih berada di lahan yang sama dengan rumah induk atau rumah utamanya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Rumah Adat",
+  "keterangan": "Hunian atau bangunan yang memiliki ciri khas khusus, digunakan sebagai tempat hunian suatu suku atau adat tertentu."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Perumahan Formal",
+  "keterangan": "kumpulan rumah yang dilengkapi dengan sarana prasarana dan utilitas umum yang dibangun oleh badan usaha yang bergerak di bidang perumahan"
+ }
+ ],
+ "Perdagangan dan Jasa": [
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Rumah Toko (ruko)",
+  "keterangan": "Rumah yang sekaligus untuk toko (toko di lantai dasar dan tempat tinggal di lantai kedua)."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Rumah Kantor (rukan)",
+  "keterangan": "Rumah tinggal yang merangkap tempat usaha, baik itu berupa usaha jasa, kantor hingga perdagangan."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Toko",
+  "keterangan": "Usaha untuk melakukan penjualan barang secara eceran maupun sub grosiran langsung kepada konsumen akhir."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pertokoan",
+  "keterangan": "Kompleks 3ook atau deretan 3ook yang masing-masing dimiliki dan dikelola oleh perorangan atau badan 3ook3."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pasar Induk",
+  "keterangan": "Pasar utama di kota besar yg merupakan pusat penyalur barang kebutuhan untuk pasar lain."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pasar Grosir",
+  "keterangan": "Usaha untuk melakukan pembelian berbagai macam barang dalam partai besar dari berbagai pihak dan menjual barang tersebut dalam partai besar sampai pada sub distributor dan atau pedagang eceran."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pasar Tradisional",
+  "keterangan": "Pasar yang dibangun dan dikelola oleh pemerintah, pemerintah daerah, swasta, badan usaha milik negara dan badan usaha milik daerah termasuk kerja sama dengan swasta dengan tempat usaha berupa 3ook, kios, counter, los dan tenda yang dimiliki/dikelola oleh pedagang kecil, menengah, swadaya atau koperasi dengan usaha skala kecil, modal kecil dan dengan proses jual beli barang dagangan melalui tawar menawar."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pasar Lingkungan/Musiman",
+  "keterangan": "Pasar yang muncul pada kondisi dan waktu tertentu dan lokasinya berada di lingkungan permukiman"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pusat Perbelanjaan/Mall",
+  "keterangan": "Usaha untuk melakukan kegiatan perdagangan modern, rekreasi, restoran dan sebagainya yang diperuntukkan bagi kelompok, perorangan, perusahaan atau koperasi untuk melakukan penjualan barang-barang dan atau jasa, dan terletak dalam bangunan/ruang yang menyatu"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pusat Perkulakan",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Departement Store",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Hypermarket",
+  "keterangan": "Usaha untuk melakukan penjualan barang-barang kebutuhan rumah tangga termasuk kebutuhan sembilan bahan pokok secara eceran dan langsung kepada konsumen akhir, yang didalamnya terdiri dari pasar swalayan dan toko serba ada yang menyatu dalam satu bangunan yang dalam pelayanannya dilakukan secara swalayan dan pengelolaannya dilakukan secara tunggal yang luas lantai usahanya lebih dari 4.000 m2 (empat ribu meter persegi) dan paling besar (maksimal) 8.000 m2 (delapan ribu meter persegi)."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Supermarket",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan barang- barang secara eceran dan langsung kepada konsumen akhir dengan cara swalayan yang luas lantai usaha lantainya paling besar (maksimal) 4.000 m2 (empat ribu meter persegi), termasuk didalamnya adalah minimarket plus dan minimarket fresh. kebutuhan rumah tangga termasuk kebutuhan sembilan bahan pokok"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Minimarket",
+  "keterangan": "toko swalayan yang menjual secara eceran barang konsumsi terutama produk makanan dan produk rumah tangga lainnya dengan ukuran luas lantai penjualan kurang dari 400 m2 (empat ratus meter persegi)"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Toko Serba Ada (toserba)",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan berbagai macam barang kebutuhan rumah tangga dan bukan kebutuhan sembilan bahan pokok, yang disusun dalam bagian yang terpisah-pisah dalam bentuk kounter secara eceran dan langsung kepada konsumen akhir yang dalam pelayanannya dibantu oleh para pramuniaga."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Café dan Coffee Shop",
+  "keterangan": "Penyediaan makanan ringan dan minuman ringan dilengkapi dengan peralatan dan perlengkapan untuk proses pembuatan, penyimpanan dan/atau penyajiannya, di dalam 1 (satu) tempat tetap yang tidak berpindah-pindah."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pedagang Kaki Lima (PKL)",
+  "keterangan": "Usaha perdagangan dengan menggunakan sarana usaha bergerak maupun tidak bergerak, menggunakan prasarana kota, fasilitas sosial, fasilitas umum, lahan dan bangunan milik pemerintah dan/atau swasta yang bersifat sementara/tidak menetap."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Warung",
+  "keterangan": "Usaha perdagangan eceran berbagai jenis barang yang utamanya bukan makanan, minuman atau tembakau bukan toserba/department store. Pada umumnya barang-barang yang diperdagangkan antara lain pakaian, perabot rumah tangga, perhiasan, mainan anak-anak dan kosmetik, yang terintegrasi di bawah satu pengelolaan."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Perkakas",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan berbagai macam perkakas"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Peralatan Rumah Tangga",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan berbagai macam barang kebutuhan rumah tangga dan bukan kebutuhan sembilan bahan pokok"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Agen / Pangkalan Elpiji",
+  "keterangan": "Sarana/tempat usaha untuk melakukan distribusi pemasaran gas"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Alat dan Bahan Farmasi",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan alat dan bahan farmasi"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pakaian dan Aksesoris",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan pakaian dan aksesoris"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Peralatan dan Pasokan Pertanian",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan pasokan pertanian dan peralatan pertanian"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Minimarket Point",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan barang-barang kebutuhan sehari-hari secara eceran dan langsung kepada konsumen akhir dengan cara swalayan, dikombinasikan dengan konsep convenience store yang menjual berbagai macam makanan dan minuman cepat saji. Selain itu fasilitas meja dan kursi serta wifi juga diberikan untuk menunjang kenyamanan pelanggan."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Kantin/Cafetaria",
+  "keterangan": "Tempat penyediaan kebutuhan makanan dan minuman."
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Pasar Hewan atau Satwa",
+  "keterangan": "Pasar yang dibangun dan dikelola oleh pemerintah, pemerintah daerah, swasta, badan usaha milik negara dan badan usaha milik daerah termasuk kerja sama dengan menengah, swadaya atau koperasi dengan usaha skala kecil, modal kecil dan dengan proses jual beli barang dagangan melalui tawar menawar. Komoditas utama yang diperdagangkan adalah hewan dan barang- barang pendukung hewan seperti kandang, tempat makan, makanan hewan, dllswasta dengan tempat usaha berupa toko, kios, counter, los dan tenda yang dimiliki/dikelola oleh pedagang kecil,"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Alat Kesehatan",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan alat kesehatan"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Tanaman",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan tanaman"
+ },
+ {
+  "jenis kegiatan": "Perdagangan",
+  "sub kegiatan": "Kendaraan Bermotor dan Perlengkapannya",
+  "keterangan": "Sarana/tempat usaha untuk melakukan penjualan kendaraan bermotor dan perlengkapan kendaraan bermotor (dealer)"
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Apartemen",
+  "keterangan": "Bangunan yang menyediakan jasa akomodasi jangka lama untuk sejumlah orang dalam unit tersendiri dengan suatu dapur dan ruang tunggal atau ruang makan"
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Hotel Berbintang 1-2",
+  "keterangan": "Penyediaan akomodasi secara harian berupa kamar-kamar di dalam 1 (satu) bangunan, yang dilengkapi dengan standar jasa pelayanan yang tinggi (bintang 1-2) dan fasilitas yang memadai dan mewah seperti makan dan minum, kegiatan hiburan serta fasilitas lainnya."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Hotel Berbintang 3 atau lebih",
+  "keterangan": "Penyediaan akomodasi secara harian berupa kamar-kamar di dalam 1(satu) bangunan, yang dilengkapi dengan standar jasa pelayanan yang tinggi (bintang 3 atau lebih) dan fasilitas yang memadai dan mewah seperti makan dan minum, kegiatan hiburan serta fasilitas lainnya."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Hotel Melati",
+  "keterangan": "Salah satu jenis akomodasi yang mempergunakan sebagain atau seluruh bangunan untuk menyediakan jasa pelayanan penginapan, makan dan minum serta jasa lainnya bagi umum dengan fasilitas yang sederhana yang dikelola secara komersil."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Penginapan/Losmen",
+  "keterangan": "Sejenis akomodasi yang menggunakan sebagian atau seluruh bangungan rumah yang menyediakan penginapan dengan/tanpa makan –minum bagi setiap orang yang datang untuk beristirahat sementara waktu."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Guesthouse",
+  "keterangan": "Sejenis akomodasi yang dapat dimiliki oleh suatu perusahaan atau instansi yang diperuntukkan bagi para tamu yang menginap dan mendapatkan pelayanan makan dan minum. Dalam pengertian aslinya, guest house merupakan akomodasi yang mempunyai fasilitas sederhana."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Homestay",
+  "keterangan": "Sejenis akomodasi yang mengijinkan seseorang tinggal di bangunan milik warga dalam beberapa lama untuk mempelajari segala hal yang terdapat di kawasan homestay tersebut, seperti kehidupan, bahasa, dan sebagainya"
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Rumah Kos Harian",
+  "keterangan": "Hunian yang penggunaannya sebagian atau seluruhnya dijadikan sumber pendapatan oleh pemiliknya dengan jalan menerima penghuni tempat kos minimal satu hari dengan memungut uang pemondokan."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Rumah Sewa Harian",
+  "keterangan": "Hunian yang penggunaannya sebagian atau seluruhnya dijadikan sumber pendapatan oleh pemiliknya dengan jalan menerima penghuni pada rumah yang disewakan selama minimal satu hari dengan memungut uang sewa."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Cottage",
+  "keterangan": "Penginapan yang konsepnya mirip dengan villa dan pada umumnya berupa bangunan seperti pondok atau rumah-rumah kecil yang terpisah."
+ },
+ {
+  "jenis kegiatan": "Perhotelan",
+  "sub kegiatan": "Kondominium Hotel (kondotel)",
+  "keterangan": "Bangunan yang terdiri dari unit-unit layaknya apartemen yang tiap unit memiliki dapur, ruang duduk atau kamar tergantung tipe yang ada dan memiliki fasilitas-fasilitas seperti kolam renang, spa, restoran, meeting rooms dan fasilitas lain seperti yang disediakan hotel berbintang, semua ditujukan untuk kenyamanan pengunjung dan bisa dimiliki oleh perorangan yang harus disewakan dan operasionalnya seperti hotel yang dilakukan oleh operator hotel kenyamanan pengunjung dan bisa dimiliki oleh perorangan yang harus disewakan dan operasionalnya seperti hotel yang dilakukan oleh operator hotel"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Biro Perjalanan, Tour dan Travel",
+  "keterangan": "Tempat penyediaan jasa perencanaan perjalanan dan/atau jasa pelayanan dan penyelenggaraan pariwisata, termasuk penyelenggaraan perjalanan ibadah."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Biro Jasa Pengurusan Perijinan",
+  "keterangan": "Layanan jasa untuk mendapatkan ijin-ijin tertentu"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Pengantaran/Kurir/Pengiriman Barang Ekspedisi",
+  "keterangan": "Segala upaya yang diselenggarakan secara sendiri atau bersama-sama dalam suatu organisasi untuk memberikan pelayanan jasa berupa pengiriman barang."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Pangkas Rambut/Salon",
+  "keterangan": "Tempat yang menyediakan tempat, peralatan dan fasilitas untuk memotong, menata dan merias rambut."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Salon Kecantikan",
+  "keterangan": "Tempat yang menyediakan tempat, peralatan dan fasilitas untuk memotong, menata dan merias rambut."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Sanggar Senam",
+  "keterangan": "Tempat atau sarana yang digunakan oleh komunitas atau sekumpulan orang untuk melakukan kegiatan senam aerobic, body languenge, zumba, dan atau sejenisnya"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Laundry",
+  "keterangan": "Tempat untuk jasa yang berfungsi sebagai tempat mencuci pakaian."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penitipan Barang",
+  "keterangan": "Jasa menyediakan tempat untuk menitipkan barang sehingga dapat terjaga keamanannya."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penitipan Anak",
+  "keterangan": "Bentuk PAUD pada pendidikan nonformal yang menyelenggarakan program pendidikan sekaligus pengasuhan dan kesejahteraan sosial terhadap anak sejak lahir sampai dengan usia enam tahun."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penitipan Hewan dan Petshop",
+  "keterangan": "Lokasi dengan kelengkapan fasilitas yang berkaitan dengan seluruh kegiatan peternakan dan kesehatan hewan baik yang dioperasikan dengan motor penggerak maupun tanpa motor penggerak untuk menjamin kesejahteraan hewan, dan bisa dilakukan jual beli hewan piaraan."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Usaha Makanan & Minuman (katering)",
+  "keterangan": "Tempat penyediaan kebutuhan makanan dan minuman."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Rumah Pemotongan Ayam",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Rumah Pemotongan Hewan",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penukaran Valuta Asing",
+  "keterangan": "Jasa yang diberikan untuk menukar mata uang antar Negara."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "ATM Drive-Thru",
+  "keterangan": "Tempat melayani pelanggan yang menunggu di kendaraannya kemudian pesanan diterima, dan barang atau layanan disajikan menggunakan jendela atau mikropon, sementara pelanggan tetap menunggu di kendaraannya."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Bimbingan Belajar",
+  "keterangan": "Proses belajar mengajar yang dilakukan oleh individu privat maupun oleh lembaga pendidikan di luar pemerintah."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "KEGIATAN",
+  "keterangan": "KETERANGAN"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Service Elektronik",
+  "keterangan": "Jasa memperbaiki barang-barang elektronik."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Warung Telekomunikasi (wartel)",
+  "keterangan": "Pelayanan jasa telekomunikasi untuk umum yang ditunggu baik bersifat sementara maupun tetap dan merupakan bagian dari telepon umum yang di dalamnya terdapat kamar bicara umum (KBU) berisi pesawat telepon untuk digunakan pemakai jasa."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Warung Internet (warnet), Game Centre",
+  "keterangan": "Tempat yang menyewakan jasa internet kepada khalayak umum atau tempat untuk menyewakan PC untuk kepentingan bermain game, baik online melalui internet maupun offline tanpa internet, dimana game tersebut sebagian besar merupakan aplikasi tersendiri."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Bengkel Kendaraan Bermotor",
+  "keterangan": "Tempat untuk memperbaiki kendaraan bermotor baik roda dua ataupun lebih dan hal-hal yang berkaitan dengan masalah teknik."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Bengkel Kendaraan Tidak Bermotor",
+  "keterangan": "Tempat untuk memperbaiki kendaraan non motoris baik roda dua ataupun lebih dan hal-hal yang berkaitan dengan masalah teknik."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Bengkel Las/Konstruksi",
+  "keterangan": "Tempat yang digunakan untuk membuat rangkaian logam dengan cara dilas untuk bahan bangunan maupun peralatan-peralatan lainnya"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Jasa Bangunan",
+  "keterangan": "Layanan jasa konstruksi atau penyediaan dalam penyelenggaranan bangunan."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penyewaan Kendaraan Bermotor",
+  "keterangan": "Jasa yang diberikan untuk menyewa kendaraan bermotor roda dua atau lebih atas milik pribadi atau kumpulan orang dengan batas waktu tertentu"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Pencucian Kendaraan Bermotor",
+  "keterangan": "Fasilitas yang berkaitan dengan mencuci kendaraan bermotor."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Jasa Pembuatan Iklan dan Out door Printing",
+  "keterangan": "Jasa dalam pembuatan dan pemasangan iklan/reklame baik dengan cara manual maupun printing."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penjahit (tailor)",
+  "keterangan": "Tempat untuk jasa yang berfungsi sebagai tempat menjahit pakaian."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Percetakan koran, Majalah dan Buku (offset printing)",
+  "keterangan": "Tempat yang digunakan untuk menggandakan koran, majalah dan buku dengan cara dicetak dengan menggunakan alat dan mesin cetak (offset)."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Fotocopy",
+  "keterangan": "Jasa layanan penggandaan dokumen dengan alat mesin fotokopi."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Pergudangan",
+  "keterangan": "Kegiatan jasa pergudangan yang dilakukan oleh suatu perusahaan atau perorangan melalui pemanfaatan gudang miliknya sendiri, dan/atau pihak lain untuk mendukung/memperlancar kegiatan perdagangan barang di dalam gedung atau ruangan tertutup."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Studio Musik",
+  "keterangan": "Tempat yang digunakan untuk bermain musik, ruang kontrol untuk merekam, memanipulasi, dan/atau mengontrol suara dari ruang rekaman dan ruang mesin"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Studio Radio",
+  "keterangan": "Tempat yang digunakan untuk kegiatan menyampaikan berita dan informasi dengan gelombang radio (suara)."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Studio TV",
+  "keterangan": "Tempat yang digunakan untuk kegiatan menyampaikan berita dan informasi secara visual dengan gelombang satelit."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Tempat Pembayaran Listrik, Telepon, Air",
+  "keterangan": "Tempat yang digunakan dalam melayani pembayaran pajak listrik, telepon dan air."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penyelenggara Acara/Event Organizer",
+  "keterangan": "Tempat yang menyediakan jasa perencanaan acara/event"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "SPBU/SPBE",
+  "keterangan": "Tempat/sarana yang menyediakan dan melayani kebutuhan bahan bakar minyak, bahan bakar khusus, bahan bakar gas, untuk sektor transportasi untuk umum lokasi, di darat maupun di perairan, termasuk SPBG, SPBB, SPBI, SPBA, APMS dan sejenisnya.langsung kepada masyarakat, dan untuk industri serta TNI/Polri, baik yang menetap maupun yang dapat berpindah"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Menara Macrocell",
+  "keterangan": "Bangunan menara yang dipergunakan untuk menempatkan perangkat telekomunikasi dan memiliki jangkauan pelayanan luas, baik di atas gedung maupun di atas permukaan tanah."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Menara Microcell",
+  "keterangan": "Bangunan menara beserta kelengkapannya dengan ketinggian paling tinggi 18 (delapan belas) meter dari permukaan tanah dan digunakan untuk menempatkan perangkat telekomunikasi yang memiliki jangkauan pelayanan lebih sempit digunakan untuk mengkover area yang tidak terjangkau oleh Menara Macrocell atau bertujuan meningkatkan kapasitas dan kualitas pada area yang padat trafiknya."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Reklame Besar",
+  "keterangan": "Reklame: Benda/alat/perbuatan/media yang menurut bentuk atau corak ragamnya dirancang untuk memperkenalkan, menganjurkan, mempromosikan, atau untuk menarik perhatian umum terhadap barang, jasa, orang, atau badan yang dapat dilihat, dibaca, didengar, dirasakan, dan atau dinikmati oleh umum. Reklame Besar adalah reklame dengan ukuran 24 m2 – 32 m2"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Reklame Sedang",
+  "keterangan": "Reklame: Benda/alat/perbuatan/media yang menurut bentuk atau corak ragamnya dirancang untuk memperkenalkan, menganjurkan, mempromosikan, atau untuk menarik perhatian umum terhadap barang, jasa, orang, atau badan yang dapat dilihat, dibaca, didengar, dirasakan, dan atau dinikmati oleh umum. Reklame Sedang adalah reklame dengan ukuran 12 m2 ≤ 24 m2"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Reklame Kecil",
+  "keterangan": "Reklame: Benda/alat/perbuatan/media yang menurut bentuk atau corak ragamnya dirancang untuk memperkenalkan, menganjurkan, mempromosikan, atau untuk menarik perhatian umum terhadap barang, jasa, orang, atau badan yang dapat dilihat, dibaca, didengar, dirasakan, dan atau dinikmati oleh umum. Reklame Kecil adalah reklame dengan ukuran < 12 m2"
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Lembaga Keuangan",
+  "keterangan": "Tempat yang mengakomodasi kegiatan badan di bidang keuangan yang bertugas menarik uang dan menyalurkannya kepada masyarakat."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Layanan Pemakaman",
+  "keterangan": "Layanan jasa penjualan kebutuhan pemakaman seperti kijing, peti mati, dupa, kain kafan, kembang, termasuk layanan gali kubur."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Perawatan/Perbaikan/Renovasi Barang",
+  "keterangan": "Jasa yang melayani perawatan, perbaikan, serta renovasi barang."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Penyediaan Ruang Pertemuan",
+  "keterangan": "Tempat yang melayani penyediaan ruang pertemuan."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Pemasaran Properti",
+  "keterangan": "Tempat yang menyediakan jasa pemasaran properti."
+ },
+ {
+  "jenis kegiatan": "Jasa",
+  "sub kegiatan": "Perkantoran atau Bisnis Lainnya",
+  "keterangan": "Tempat/sarana yang mengakomodasi kegiatan kantor dan bisnis."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Permainan Ketangkasan (amusement), dan Billyard",
+  "keterangan": "Tempat yang digunakan untuk permainan ketangkasan dan disediakan hadiah bagi pemenangnya. Billyard adalah tempat untuk kegiatan olahraga bola sodok (billyard)."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Bioskop",
+  "keterangan": "Gedung/Bangunan yang digunakan sebagai tempat jasa pelayanan hiburan dengan melaksanakan pertunjukan film-film layar lebar."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Tempat Pijat, SPA, Mandi Uap dan Fitnes",
+  "keterangan": "Tempat pijat: usaha yang menyediakan tempat dan fasilitas pemijatan dalam suatu ruangan dengan pencahayaan terang yang memungkinkan aktifitasnya diketahui dari luar. SPA: Usaha perawatan yang memberikan layanan dengan metode kombinasi terapi air, terapi aroma, pijat, rempah-rempah, layanan makanan/minuman sehat danolah aktivitas fisik dengan tujuan menyeimbangkan jiwa dan raga dengan tetap memperhatikan tradisi dan budaya bangsa Indonesia. Mandi uap: Suatu usaha yang menyediakan tempat dan fasilitas untuk mandi uap sebagai usaha pokok dan dapat dilengkapi dengan pijat dan penyediaan jasa pelayanan makan dan minum. Fitnes: Tempat yang digunakan untuk mengolah tubuh seperti senam dan latihan beban. dengan tenaga pemijat terlatih dan berbusana sopan serta dilakukan"
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Diskotik, Klub Malam dan Bar",
+  "keterangan": "Diskotik, Klub Malam: Tempat hiburan atau klub dengan rekaman musik yang dimainkan oleh Disc Jockey dan bukan sebuah band di atas panggung. Bar: Usaha penyediaan minuman yang dilengkapi dengan peralatan dan perlengkapan untuk proses pembuatan, penyimpanan dan/atau penyajiannya, di dalam 1 (satu) tempat tetap yang tidak berpindah- pindah."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Karaoke",
+  "keterangan": "Usaha yang menyediakan tempat dan fasilitas menyanyi dengan atau tanpa pemandu lagu."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Teater Terbuka",
+  "keterangan": "Suatu usaha yang menyediakan tempat dan fasilitas untuk mempertunjukkan seni budaya di tempat terbuka (tanpa atap) dan dapat dilengkapi dengan penyediaan jasa pelayanan makan dan minum."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Taman Hiburan/Rekreasi",
+  "keterangan": "Tempat dengan daya tarik yang terdiri atas wahana permainan seperti wahana lintas-gunung (roller coaster) dan balap air, dan memiliki pilihan sejumlah jenis wahana permainan yang berbeda, bersama dengan toko, restoran, dan gerai (outlet) hiburan lainnya."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Tempat Bermain Lingkungan",
+  "keterangan": "Fasilitas taman bermain di lingkungan perumahan."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Kebun Binatang",
+  "keterangan": "Tempat atau wadah yang memiliki fungsi utama sebagai lembaga konservasi yang melakukan upaya perawatan dan pengembangbiakan berbagai jenis satwa berdasarkan etika dan kaidah kesejahteraan satwa dalam rangka membentuk dan mengembangkan habitat baru, sebagai sarana perlindungan dan pelestarian jenis melalui kegiatan penyelamatan, rehabilitasi dan reintroduksi alam dan dimanfaatkan sebagai sarana pendidikan, penelitian, pengembangan ilmu pengetahuan dan teknologi, serta sarana rekreasi yang sehat."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Restoran, Pusat Jajanan",
+  "keterangan": "Restoran: Fasilitas penyediaan makanan dan/atau minuman dengan dipungut bayaran. Pusat Jajanan: Penyediaan makanan dan minuman dilengkapi dengan pembuatan, peralatan dan perlengkapan untuk proses penyimpanan dan penyajian, di dalam 1 (satu) tempat tetap."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Kolam Pancing",
+  "keterangan": "Usaha yang menyediakan tempat serta fasilitas untuk memancing sebagai usaha pokok dan dapat dilengkapi dengan penyediaan pelayanan jasa pelayanan makan dan minum."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Obyek Wisata Sejarah, Pendidikan, Budaya, dan Alam",
+  "keterangan": "Tempat wisata yang mempunyai nilai sejarah, ilmu pengetahuan, budaya, dan wisata alam."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Taman Perkemahan",
+  "keterangan": "Lahan terbuka yang berfungsi sosial dan estetik sebagai sarana kegiatan rekreatif, edukasi atau kegiatan lain yang digunakan sebagai bumi perkemahan."
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Studio Ketrampilan",
+  "keterangan": "Ruang tempat bekerja yang mengakomodasi kegiatan terkait ketrampilan"
+ },
+ {
+  "jenis kegiatan": "Wisata dan Rekreasi",
+  "sub kegiatan": "Hiburan Dewasa Lainnya",
+  "keterangan": "Tempat yang menyediakan pelayanan atau perbuatan yang dapat menghibur hati (melupakan kesedihan dan sebagainya) untuk usia dewasa."
+ },
+ {
+  "jenis kegiatan": "Industri",
+  "sub kegiatan": "Industri Rumah Tangga",
+  "keterangan": "Industi pengolahan yang mempekerjakan antara 1 – 4 orang sebagai tenaga kerja."
+ },
+ {
+  "jenis kegiatan": "Industri",
+  "sub kegiatan": "Industri Kecil",
+  "keterangan": "Industi pengolahan yang mempekerjakan antara 5 – 19 orang sebagai tenaga kerja."
+ },
+ {
+  "jenis kegiatan": "Industri",
+  "sub kegiatan": "Industri Sedang",
+  "keterangan": "Industi pengolahan yang mempekerjakan antara 20 – 99 orang sebagai tenaga kerja."
+ },
+ {
+  "jenis kegiatan": "Industri",
+  "sub kegiatan": "Industri Besar",
+  "keterangan": "Industi pengolahan yang mempekerjakan 100 orang atau lebih sebagai tenaga kerja."
+ }
+ ],
+ "Perkantoran": [
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor Pemerintah Pusat/Instansi Vertikal/Nasional",
+  "keterangan": "Tempat kegiatan pemerintahan dan administrasi pemerintahan beserta fasilitasnya pada Lembaga tinggi negara, dan pemerintahan pusat termasuk kepolisian dengan luas lahan yang disesuaikan dengan fungsinya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor Pemerintah Daerah/Kota/Provinsi/Wilayah",
+  "keterangan": "Tempat kegiatan pemerintahan daerah dan administrasi pemerintahan daerah beserta fasilitasnya pada pemerintahan provinsi, Kota Administrasi, Kabupaten Administrasi, Kecamatan dan Kelurahan, dengan luas lahan yang disesuaikan dengan fungsinya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor Perwakilan Negara Asing",
+  "keterangan": "Tempat kegiatan pemerintahan asing dan administrasi pemerintahan asing beserta fasilitasnya dengan luas lahan yang disesuaikan dengan fungsinya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor BUMN/BUMD",
+  "keterangan": "Tempat kegiatan pengelolaan dan administrasi Badan Usaha Milik Negara dan Badan Usaha Milik Daerah dengan segala fasilitasnya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor POLRI",
+  "keterangan": "Tempat kegiatan kepolisiaan dan administrasi kepolisian beserta fasilitasnya baik pada wilayah sektor, resort maupun kepolisian daerah."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor TNI dan Hankam",
+  "keterangan": "Tempat kegiatan pertahanan dan keamanan TNI beserta administrasi TNI serta tempat latihan militer dengan segala fasilitasnya termasuk pos penjagaan."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor Lembaga Sosial dan Organisasi Kemasyarakatan",
+  "keterangan": "Lembaga yang mengatur rangkaian tata cara dan prosedur dalam melakukan hubungan antar manusia saat mereka menjalani kehidupan bermasyarakat dengan tujuan mendapatkan keteraturan hidup."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kantor Swasta",
+  "keterangan": "Tempat kegiatan pengelolaan dan administrasi perusahan atau lembaga swasta dengan segala fasilitasnya."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Co-working Space",
+  "keterangan": "Ruang kerja yang digunakan secara bersama-sama dan terbuka oleh berbagai individu dengan berbagai latar belakang pekerjaan, serta dengan penggunaan waktu yang fleksibel"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Lembaga Permasyarakatan (LP)",
+  "keterangan": "Tempat yang dihuni oleh narapidana."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Polresta",
+  "keterangan": "Struktur komando Kepolisian Republik Indonesia di daerah kabupaten/kota. Kepolisian Resor di wilayah perkotaan biasa disebut \"Kepolisian Resor Kota\" (Polresta). \"Kepolisian Resor Kota Besar\" (Polrestabes) biasanya digunakan untuk ibukota provinsi."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Polsek",
+  "keterangan": "Struktur komando Kepolisian Republik Indonesia di tingkat kecamatan. Kepolisian sektor di perkotaan biasanya disebut sebagai \"Kepolisian Sektor Kota\" (Polsekta)."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Kodim",
+  "keterangan": "Komando pembinaan dan operasional kewilayahan TNI Angkatan Darat di bawah Korem. Kodim membawahi beberapa Komando Rayon Militer (Koramil)."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Pemadam Kebakaran",
+  "keterangan": "Prasarana proteksi kebakaran berupa bangunan pos pemadam kebakaran dan/atau bangunan sektor pemadam kebakaran dan/atau bangunan wilayah pemadam kebakaran. Prasarana proteksi kebakaran merupakan bagian dari manajemen proteksi kebakaran perkotaan (MPKP) untuk mengupayakan kesiapan Instansi Pemadam Kebakaran dan instansi terkait, pemilik dan atau pengguna bangunan gedung, dan masyarakat terhadap kegiatan proteksi kebakaran pada bangunan gedung dan/atau lingkungan di dalam kota."
+ }
+ ],
+ "Campuran": [
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Perumahan dan Perdagangan/Jasa",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Perumahan dan Perkantoran",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Perdagangan/Jasa dan Perkantoran",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Perumahan, Perdagangan/Jasa dan Perkantoran",
+  "keterangan": ""
+ }
+ ],
+ "Ruang Terbuka Non Hijau": [
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Panggung Kampung",
+  "keterangan": "Ruang ekspresi seni budaya bagi masyarakat atau balai budaya pada skala kelurahan berupa panggung terbuka maupun tertutup dengan perkerasan yang dapat diintegrasikan dengan pengembangan RTH publik."
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Lapangan (non-resapan)",
+  "keterangan": "Daerah tempat dimainkannya olahraga atau aktifitas lainnya, termasuk di dalamnya adalah lapangan futsal, tenis lapangan, badminton, dan lain- lain non resapan"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Plaza",
+  "keterangan": "Tempat terbuka untuk publik dimana terdapat bangunan untuk pemenuhan kebutuhan sehari-hari, contoh: alun-alun"
+ },
+ {
+  "jenis kegiatan": "",
+  "sub kegiatan": "Koridor",
+  "keterangan": "Tempat terbuka berupa jalan yang digunakan untuk kegiatan olahraga seperti jogging, bersepeda, dan lain-lain"
+ }
+ ],
+ "Sarana Pelayanan Umum": [
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Play Group, TK, PAUD, dan Pendidikan Khusus dan Sederajat",
+  "keterangan": "Satuan pendidikan anak usia dini pada jalur pendidikan formal yang menyelenggarakan program pendidikan bagi anak usia 4 (empat) tahun sampai dengan 6 (enam) tahun."
+ },
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Pendidikan Dasar dan Sederajat",
+  "keterangan": "Jenjang pendidikan yang melandasi jenjang pendidikan menengah, lain yang sederajat serta sekolah menengah pertama (SMP) dan madrasah tsanawiyah (MTs), atau bentuk lain yang sederajat. berbentuk Sekolah Dasar (SD) dan Madrasah Ibtidaiyah (MI) atau bentuk"
+ },
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Pendidikan Menengah dan Sederajat",
+  "keterangan": "Jenjang pendidikan lanjutan pendidikan dasar berbentuk Sekolah Menengah Atas (SMA), Madrasah Aliyah (MA), Sekolah Menengah Kejuruan (SMK), dan Madrasah Aliyah Kejuruan (MAK) atau bentuk lain yang sederajat."
+ },
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Pendidikan Tinggi dan Sederajat",
+  "keterangan": "Menyiapkan peserta didik menjadi anggota masyarakat yang memiliki kemampuan akademik dan/atau profesional yang dapat menerapkan, mengembangkan dan/atau menciptakan ilmu pengetahuan teknologi dan/atau kesenian."
+ },
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Sekolah Agama/Pesantren",
+  "keterangan": "Lembaga pendidikan keagamaan Islam berbasis masyarakat yang menyelenggarakan pendidikan diniyah atau secara terpadu dengan jenis pendidikan lainnya."
+ },
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Tempat Kursus, Lembaga Pendidikan, Lembaga Pelatihan",
+  "keterangan": "Tempat jalur pendidikan di luar pendidikan formal yang dapat dilaksanakan secara terstruktur dan berjenjang. yang dihargai setara dengan hasil program pendidikan formal setelah melalui proses penilaian penyetaraan oleh lembaga yang ditunjuk oleh Pemerintah atau Pemerintah Daerah dengan mengacu pada standar nasional pendidikan."
+ },
+ {
+  "jenis kegiatan": "Pendidikan",
+  "sub kegiatan": "Islamic Centre",
+  "keterangan": "Lembaga keagamaan yang dalam fungsinya sebagai pusat pembinaan dan pengembangan Agama Islam, yang berperan sebagai mimbar Pelaksanaan Da’wah dalam Era Pembangunan."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Terminal Penumpang",
+  "keterangan": "Prasarana beserta fasilitasnya untuk menurunkan dan menaikkan penumpang, perpindahan intradan/atau antar moda transportasi serta mengatur kedatangan dan pemberangkatan kendaraan umum angkutan antar kota antar propinsi dan/atau angkutan lintas batas negara, angkutan antar kota dalam propinsi, angkutan kota dan angkutan pedesaan."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Terminal Barang",
+  "keterangan": "Prasarana beserta fasilitasnya untuk menurunkan dan menaikkan barang, yang tidak bisa langsung masuk ke kawasan perkotaan karena pertimbangan volume dan beban berat barang."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Halte",
+  "keterangan": "Tempat pemberhentian sementara angkutan umum untuk menaikkan dan menurunkan penumpang sesuai dengan rute jaringan transportasi yang ditetapkan"
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Shuttle Point",
+  "keterangan": "Tempat pemberhentian shuttle dengan pelayanan pemberangkatan dari titik tertentu dan pengantaran sampai ke titik tujuan (point to point)"
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Stasiun",
+  "keterangan": "Prasarana kereta api sebagai tempat pemberangkatan dan pemberhentian kereta api."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Tempat Khusus Parkir",
+  "keterangan": "Prasarana untuk memarkirkan kendaraan bermotor maupun tidak bermotor yang dapat berupa 12endan parkir atau parkir terbuka yang disediakan, dimiliki, dan dikelola oleh pemerintah daerah"
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Tempat Parkir Kendaraan Bermotor",
+  "keterangan": "Prasarana untuk memarkirkan kendaraan bermotor antara lain sepeda motor, mobil, dan lain lain yang dapat berupa 12endan parkir atau parkir terbuka"
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Tempat Parkir Kendaraan Non- Bermotor",
+  "keterangan": "Prasarana untuk memarkirkan kendaraan tidak bermotor antara lain sepeda, andong, becak, dan lain lain yang dapat berupa 12endan parkir atau parkir terbuka."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Pool / Garasi Bus",
+  "keterangan": "Tempat penyimpanan, memelihara dan perbaikan kendaraan berupa bus sekaligus tempat menaikan dan menurunkan penumpang. Serta layanan jasa penyediaan bangunan sebagai tempat menyimpan (menaruh) kendaraan bus (13endang bus)."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Pool / Garasi Taxi",
+  "keterangan": "Tempat penyimpanan, memelihara dan perbaikan kendaraan berupa taxi sekaligus tempat menaikan dan menurunkan penumpang. Serta layanan jasa penyediaan bangunan sebagai tempat menyimpan (menaruh) kendaraan taxi (13endang taxi)."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Pangkalan Ojek",
+  "keterangan": "Tempat ojek berkumpul untuk mencari penumpang."
+ },
+ {
+  "jenis kegiatan": "Transportasi",
+  "sub kegiatan": "Transportasi Massal",
+  "keterangan": ""
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Rumah Sakit",
+  "keterangan": "Institusi perawatan kesehatan 13lastic13onal yang pelayanannya disediakan oleh dokter, perawat, dan tenaga ahli kesehatan lainnya yang juga dilengkapi dengan fasilitas bedah, bedah 13lastic, ruang bersalin, laboratorium, dan sebagainya."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Rumah Sakit Bersalin",
+  "keterangan": "Tempat yang menyelenggarakan pelayanan kesehatan bagi wanita hamil, bersalin, nifas yang fisiologik maupun patologik yang mempunyai penanggungjawab medis seorang dokter ahli kebidanan dan kandungan serta seorang dokter anak."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Rumah Bersalin/ Balai Klinik Ibu dan Anak (BKIA)",
+  "keterangan": "Tempat untuk prosedur persalinan berisiko rendah, terutama secara alami yang dilakukan oleh bidan."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Rumah Sakit Khusus",
+  "keterangan": "Rumah sakit yang memberikan pelayanan utama pada satu bidang atau satu jenis penyakit tertentu berdasarkan disiplin ilmu, golongan umur, organ, jenis penyakit, atau kekhususan lainnya"
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Laboratorium Kesehatan",
+  "keterangan": "Sarana kesehatan yang melaksanakan pengukuran, penetapan dan pengujian terhadap bahan yang berasal dari manusia atau bahan bukan berasal dari manusia untuk penentuan jenis penyakit, penyebab penyakit, kondisi kesehatan atau faktor yang dapat berpengaruh pada kesehatan perorangan dan kesehatan masyarakat."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Puskesmas, Pustu",
+  "keterangan": "Kesatuan organisasi fungsional yang merupakan pusat pengembangan kesehatan masyarakat yang juga membina peran serta masyarakat disamping memberikan pelayanan kesehatan secara menyeluruh dan terpadu kepada masyarakat di wilayah kerjanya dalam bentuk kegiatan pokok."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Praktek Pengobatan Alternatif, Tradisional, Herbal",
+  "keterangan": "Tempat pengobatan dengan menggunakan metode pengobatan non medis atau bisa juga diartikan sebagai jenis pengobatan yang berfungsi sebagai metode pengobatan pendukung pengobatan medis."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Posyandu",
+  "keterangan": "Kegiatan kesehatan dasar yang diselenggarakan oleh, dari, dan untuk masyarakat yang dibantu oleh petugas kesehatan."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Klinik Hewan",
+  "keterangan": "Usaha pelayanan jasa medik veteriner yang dijalankan oleh suatu manajemen dengan dipimpin oleh seorang dokter hewan penanggungjawab, memiliki fasilitas untuk pelayanan gawat darurat, laboratorium diagnostik, rawat inap, unit penanganan intensif, ruang isolasi, serta dapat menerima jasa layanan medik veteriner yang bersifat rujukan."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Balai Kesehatan/Pengobatan",
+  "keterangan": "Tempat penyelenggaraan pelayanan kesehatan dasar minimal kuratif, prepentif dan promotif dengan penanggung jawabnya seorang dokter umum dan pelaksanaan harian adalah dokter/tenaga keperawatan minimal D3 Keperawatan (Akper)."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Praktek Dokter Umum, Terpadu, Mandiri atau Spesialis",
+  "keterangan": "Tempat profesi lulusan pendidikan kedokteran yang belum mendalami keahlian pada jenis penyakit tertentu (bukan spesialis) dan lulusan pendidikan kedokteran yang mengkhususkan keahliannya dl satu macam penyakit; baik di dalam maupun di luar negeri yang diakui oleh Pemerintah Republik Indonesia sesuai dengan peraturan perundang-undangan."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Praktek Bidan",
+  "keterangan": "Tempat bidan secara mandiri memberikan pelayanan pada perempuan yang menyangkut proses reproduksi, kesejahteraan ibu dan janin/bayinya, masa antara dalam lingkup praktek kebidanan juga termasuk pendidikan kesehatan dalam hal proses reproduksi untuk keluarga dan komunitasnya."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Apotek, Toko Obat/Herbal",
+  "keterangan": "Tempat untuk melakukan pekerjaan kefarmasian penyaluran perbekalan farmasi kepada masyarakat, diantaranya pengadaan obat penyimpanan obat, pembuatan sediaan obat, peracikan, penyaluran dan penyerahan perbekalan farmasi serta memberikan informasi kepada masyarakat mengenai perbekalan kefarmasian yang terdiri dari obat, bahan obat, obat tradisional, alat kesehatan, kosmetik dan herbal."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Produksi Jamu dan Obat Herbal",
+  "keterangan": "Tempat yang digunakan untuk mengolah dan membuat obat tradisional berupa jamu dan obat-obat herbal kainnya non-Kimia."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Pos Kesehatan",
+  "keterangan": "Sarana Kesehatan Bersumberdaya Masyarakat (UKBM) yang dibentuk masyarakat dalam rangka mendekatkan/menyediakan pelayanan kesehatan dasar bagi masyarakat."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Klinik/Poliklinik",
+  "keterangan": "Klinik: Fasilitas pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan perorangan yang menyediakan pelayanan medis dasar dan/atau spesialistik. Poliklinik: Unit pelayanan masyarakat yang bergerak pada bidang kesehatan. Sebuah poliklinik yang menawarkan fasilitas perawatan kesehatan yang di khususkan untuk perawatan pasien rawat jalan."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Fasilitas Karantina",
+  "keterangan": "Bangunan  yang  digunakan  sebagai  fasilitas observasi/penampungan/isolasi untuk pengendalian infeksi penyakit menular"
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Mantri Sunat",
+  "keterangan": "Tempat pelayanan khusus yang diperuntukkan sebagai tempat khitan/ Sunat."
+ },
+ {
+  "jenis kegiatan": "Kesehatan",
+  "sub kegiatan": "Optik",
+  "keterangan": "Sebuah tempat tertutup yang di dalamnya terjadi kegiatan perdagangan dengan jenis benda atau barang berupa kacamata dan sebagai tempat borkonsultasi mengenai mata."
+ },
+ {
+  "jenis kegiatan": "Keagamaan",
+  "sub kegiatan": "Masjid",
+  "keterangan": "Rumah ibadah agama Islam."
+ },
+ {
+  "jenis kegiatan": "Keagamaan",
+  "sub kegiatan": "Musholla/Langgar",
+  "keterangan": "Tempat atau rumah kecil menyerupai masjid yang digunakan sebagai tempat ibadah agama Islam."
+ },
+ {
+  "jenis kegiatan": "Keagamaan",
+  "sub kegiatan": "Gereja",
+  "keterangan": "Rumah ibadah agama Protestan dan Katolik."
+ },
+ {
+  "jenis kegiatan": "Keagamaan",
+  "sub kegiatan": "Vihara",
+  "keterangan": "Rumah ibadah agama Budha."
+ },
+ {
+  "jenis kegiatan": "Keagamaan",
+  "sub kegiatan": "Pura",
+  "keterangan": "Rumah ibadah agama Hindu."
+ },
+ {
+  "jenis kegiatan": "Keagamaan",
+  "sub kegiatan": "Klenteng",
+  "keterangan": "Rumah ibadah agama Konghucu."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Balai RW",
+  "keterangan": "Gedung yang digunakan untuk kegiatan-kegiatan seperti rapat dengan skala lingkungan."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Gedung Serbaguna",
+  "keterangan": "Gedung yang digunakan untuk kegiatan-kegiatan seperti seminar, workshop, diskusi round table yang berskala nasional maupun internasional dan dapat digunakan juga untuk kegiatan lain seperti pameran, resepsi pernikahan dan acara-acara lainnya denganfasilitas meliputi: meja kursi, sound system, LCD, wireless mic dan motorized projection screen."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Gedung Pertemuan",
+  "keterangan": "Gedung yang digunakan untuk kegiatan-kegiatan seperti rapat dengan skala kota."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Sanggar Seni",
+  "keterangan": "Usaha yang menyediakan tempat dan fasilitas untuk melakukan kegiatan seni atau menonton karya seni dan/atau pertunjukan seni, seperti: sanggar seni, galeri seni, dan gedung pertunjukan seni."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Gelanggang/ Kolam Renang",
+  "keterangan": "Suatu konstruksi buatan yang dirancang untuk diisi dengan air dan digunakan untuk berenang, menyelam, atau aktivitas air lainnya."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Gedung Kesenian",
+  "keterangan": "Tempat para seniman untuk mempertunjukkan hasil kreasi seninya, seperti drama, teater, film, sastra, dan lain sebagainya."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Gedung/ Lapangan Olahraga",
+  "keterangan": "Suatu bangunan gedung yang digunakan berbagai kegiatan olahraga yang biasa dilakukan dalam ruangan tertutup."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Gelanggang Remaja",
+  "keterangan": "Ruang atau tempat yang biasanya dipakai para remaja untuk memanfaatkan waktu luang dengan melakukan berbagai kegiatan yg berguna."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Stadion",
+  "keterangan": "Lapangan olahraga yg dikelilingi tempat duduk."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Museum",
+  "keterangan": "Lembaga tempat penyimpanan, perawatan, pengamanan, dan pemanfaatan benda-benda materiil hasil budaya manusia serta alam dan lingkungannya guna menunjang upaya perlindungan dan pelestarian kekayaan budaya bangsa."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Pusat Informasi Lingkungan",
+  "keterangan": "Tempat yang memberikan informasi terkait lingkungan."
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Krematorium",
+  "keterangan": "Tempat pembakaran jenazah atau kerangka jenazah"
+ },
+ {
+  "jenis kegiatan": "Sosial dan Budaya",
+  "sub kegiatan": "Ruang Evakuasi Bencana",
+  "keterangan": "Tempat yang digunakan untuk menampung atau mengevakuasi korban bencana, seperti ruang public yang tersedia sarprasnya."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "MCK",
+  "keterangan": "Sarana fasilitas umum yang digunakan bersama oleh beberapa keluarga untuk keperluan mandi, mencuci, dan buang air di lokasi permukiman tertentu yang dinilai berpenduduk cukup padat dan tingkat kemampuan ekonomi rendah."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Rest Area",
+  "keterangan": "Tempat beristirahat sejenak dari perjalanan, yang memiliki fasilitas pendukung kegiatan komersial seperti restoran, minimarket, souvenir shop dan kegiatan lain terkait"
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "TPS",
+  "keterangan": "Tempat Penampungan Sementara adalah tempat sebelum sampah diangkut ke tempat pendaur ulangan, pengelolaan, dan/atau tempat pengelolaan sampah terpadu."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "TPST",
+  "keterangan": "Tempat dilaksanakannya pengumpulan, pemilahan, penggunaan ulang, pendaur ulangan, dan pemrosesan akhir sampah."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Daur Ulang Sampah",
+  "keterangan": "Tempat yang digunakan sebagai kegiatan daur ulang sampah yang sudah dipilah-pilah."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Pengolahan Sampah/Limbah",
+  "keterangan": "Pengolahan Sampah: Tempat yang digunakan untuk menangani sampah, untuk mengakomodasi proses perubahan bentuk sampah dengan mengubah karakteristik, komposisi, dan jumlahnya. Pengolahan sampah merupakan kegiatan yang dimaksudkan untuk mengurangi jumlah sampah, disamping memanfaatkan nilai yang masih terkandung dalam sampah itu sendiri (bahan daur ulang, produk lain, dan energi). Pengolahan Limbah: Tempat yang digunakan untuk mengakomodasi proses penghilangan kontaminan dari air limbah dan limbah rumah tangga, baik limpasan maupun domestic, bertujuan untuk menghasilkan aliran limbah atau efluen yang telah diolah dari limbah padat atau lumpur yang cocok untuk pembuangan dan dapat dipergunakan kembali terhadap lingkungan setelah diolah"
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Riset dan Pengembangan IPTEK",
+  "keterangan": "Tempat/sarana penunjang untuk mendukung pengembangan riset dan iptek. Bersifat permanen atau bergerak, dikelola secara sistematis untuk kegiatan pengujian, kalibrasi, dan/atau produksi dalam skala terbatas, dengan menggunakan peralatan dan bahan berdasarkan metode keilmuan tertentu, dalam rangka pelaksanaan pendidikan, penelitian, dan/atau pengabdian kepada masyarakat."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Stasiun Terpadu (TOD)",
+  "keterangan": "Stasiun/terminal yang mengakomodasi pendekatan pengembangan kota TOD (Transit Oriented Development), sebagai pusat kawasan dengan fungsi campuran dengan maksimalisasi penggunaan angkutan massal (Busway/BRT, Kereta api kota (MRT), Kereta api ringan (LRT) atau moda lainnya serta dilengkapi jaringan pejalan kaki dan/atau jaringan sepeda)."
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Pos Pantau Sungai",
+  "keterangan": "Tempat yang digunakan untuk memantau wilayah sungai, termasuk di dalamnya daerah aliran sungai, badan sungai, dll"
+ },
+ {
+  "jenis kegiatan": "Peruntukan Lainnya/Khusus",
+  "sub kegiatan": "Pos Pantau KA",
+  "keterangan": "Tempat yang digunakan untuk memantau pergerakan kereta api"
+ }
+ ]
+}
