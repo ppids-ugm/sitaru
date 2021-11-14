@@ -10,8 +10,8 @@
       <p>Zona: {{RDTRData.zona}}</p>
       <p>Sub-Zona: {{RDTRData.sub_zona}}</p>
       <h4>Penggunaan Persil</h4>
-      <p>Luas Persil: {{luasPersil}} m<sup>2</sup></p>
-      <p>Penggunaan: {{PersilData.Peng_BPN}}</p>
+      <p>Luas Persil: {{PersilData.DESA}} m<sup>2</sup></p>
+      <p>Penggunaan: {{PersilData.KECAMATAN}}</p>
       <p>Tipe Persil: {{PersilData.TIPE}}</p>
     </ui-dialog-content>
     <ui-grid>
@@ -62,9 +62,10 @@ export default {
     this.loadData()
 
     this.wmsSource = new TileWMS({
-      url: 'https://geoserver.jogjakota.go.id/geoserver/sitaru/wms',
+      // url: 'https://geoserver.jogjakota.go.id/geoserver/sitaru/wms',
+      url: 'http://geoportal.ppids.ft.ugm.ac.id/geoserver/sitaru/wms',
       params: {
-        LAYERS: 'sitaru:sitaru2',
+        LAYERS: 'sitaru:persil_kota_yogyakarta_wgs',
         FORMAT: 'image/png8',
         TILED: true,
         VERSION: '1.1.1'
@@ -92,9 +93,9 @@ export default {
       visible: true,
       opacity: 0.6,
       source: new TileWMS({
-        url: 'https://geoserver.jogjakota.go.id/geoserver/sitaru/wms',
+        url: 'http://geoportal.ppids.ft.ugm.ac.id/geoserver/sitaru/wms',
         params: {
-          LAYERS: 'sitaru:bidang_tanah_tujuh_edit',
+          LAYERS: 'sitaru:rdtr_kota_yogyakarta_wgs',
           TILED: true
         },
         serverType: 'geoserver',
@@ -138,7 +139,7 @@ export default {
       var url = this.wmsSource.getFeatureInfoUrl(
         evt.coordinate, viewResolution, 'EPSG:4326', {
           INFO_FORMAT: 'application/json',
-          QUERY_LAYERS: 'sitaru:pola_ruang_rdtr, sitaru:bidang_tanah_tujuh_edit',
+          QUERY_LAYERS: 'sitaru:persil_kota_yogyakarta_wgs',
           FEATURE_COUNT: 5
         })
       if (url) {
@@ -164,9 +165,7 @@ export default {
       }
     },
     openDialogKegiatan () {
-
     }
-
   }
 }
 
